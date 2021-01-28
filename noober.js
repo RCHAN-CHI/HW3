@@ -15,7 +15,7 @@ levelOfService = 'Noober Purple'
   levelOfService = 'NooberPurple'
 } else if(ride.numberOfPassengers > 3){
   levelOfService = 'Noober XL'
-} elese{levelOfService = 'SERVICE UNAVAILABLE'}
+} elese{levelOfService = 'Noober X'}
 
 let passenger1 = ride[0]
 let passenger2 = ride[1]
